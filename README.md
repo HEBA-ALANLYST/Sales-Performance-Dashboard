@@ -4,7 +4,7 @@ Interactive Power BI dashboard for sales analysis using Excel, SQL, and DAX.
 
 ## 📌 Project Overview
 
-This project is an interactive Power BI dashboard built to analyze sales performance and provide business insights. The dashboard allows users to explore sales trends, product performance, customer performance, and regional sales using interactive filters.
+The project involved data preparation, SQL analysis, and the development of an interactive Power BI dashboard to explore sales performance through KPIs, trends, product categories, regions, and top customers
 
 ---
 
