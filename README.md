@@ -38,7 +38,9 @@ This project is an interactive Power BI dashboard built to analyze sales perform
 ---
 
 ## 📷 Dashboard Preview
-# 📊 Sales Performance Dashboard
+
+![Dashboard Preview](dashboard.png)
+
 
 ## 📌 Project Overview
 
@@ -73,9 +75,6 @@ This project is an interactive Power BI dashboard built to analyze sales perform
 - The dashboard identifies the top five customers by sales.
 - Interactive filters allow users to analyze data by year and region.
 
----
-
-## 📷 Dashboard Preview
 
 
 
